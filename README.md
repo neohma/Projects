@@ -1,2 +1,9 @@
 # Projects
  
+This Project is obtain three major project that we had during in in Comprog 1 and 2 and in Data Structure. 
+
+The 2048 game is a group project, we create it as our first major project in Comprog 1. 2048 is a simple yet addictive puzzle game where the goal is to slide numbered tiles together to create tiles with higher values. By swiping the tiles up, down, left, or right, you can move them. If two tiles with the same number collide, they merge into a single tile with the sum of their values. The game ends when no more moves can be made, and the highest tile value achieved is your score.
+
+The Library Management also a c major project in Comprog 2. This library management system allows users to manage a collection of books in a library. Users can perform actions like adding new books, removing existing books, searching for books by title, searching for books by category, borrowing books, and returning books. The system also keeps track of student and staff borrowers, including any penalties they may incur.
+
+And lasly, for ATM Simulation, a Data Structure and Algorithm major project. ATM system, allowing users to perform various banking operations. It includes features like account creation, authentication, deposits, withdrawals, balance inquiries, and PIN changes. The code utilizes structures to represent ATM cards and transactions, and functions to handle different operations. It also incorporates file I/O for saving account data and error handling for invalid inputs. Additionally, the simulation includes a flash drive detection mechanism to ensure the system is only accessible when the required flash drive is inserted.
